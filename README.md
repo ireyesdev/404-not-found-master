@@ -6,7 +6,7 @@
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
 </div>
 
-<div align="center">
+<div align="left">
   <h3>
     <a href="https://ireyesdev.github.io/404-not-found-page/">
       Demo
